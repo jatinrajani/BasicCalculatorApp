@@ -63,8 +63,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 if(num2!=0)
                 result=num1/num2;
                 break;
-            case R.id.equals:
-                break;
             default:
                 break;
 
