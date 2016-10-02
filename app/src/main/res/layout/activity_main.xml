@@ -63,13 +63,5 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:text="divide"/>
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Equals"
-        android:id="@+id/equals"
-        android:layout_below="@+id/sub"
-        android:layout_alignLeft="@+id/sub"
-        android:layout_alignStart="@+id/sub" />
-
+    
 </RelativeLayout>
